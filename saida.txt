@@ -1,0 +1,116 @@
+Arquivo texto: Waescher_TEST055B
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:21
+Arquivo texto: Waescher_TEST055B
+Metodo: First fit
+Tempo de execucao: 9.965897e-04s
+Numero de compartimentos necessarios no First Fit:21
+Arquivo texto: Waescher_TEST055B
+Metodo: First fit
+Tempo de execucao: 9.970665e-04s
+Numero de compartimentos necessarios no First Fit:21
+Arquivo texto: Waescher_TEST065
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:17
+Arquivo texto: Waescher_TEST065
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:16
+Arquivo texto: Waescher_TEST065
+Metodo: Best fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Best Fit:16
+Arquivo texto: Waescher_TEST068
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:12
+Arquivo texto: Waescher_TEST068
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:13
+Arquivo texto: Waescher_TEST068
+Metodo: Best fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Best Fit:13
+Arquivo texto: Waescher_TEST075
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:13
+Arquivo texto: Waescher_TEST075
+Metodo: First fit
+Tempo de execucao: 9.970665e-04s
+Numero de compartimentos necessarios no First Fit:14
+Arquivo texto: Waescher_TEST075
+Metodo: Best fit
+Tempo de execucao: 9.970665e-04s
+Numero de compartimentos necessarios no Best Fit:14
+Arquivo texto: Waescher_TEST082
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:32
+Arquivo texto: Waescher_TEST082
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:25
+Arquivo texto: Waescher_TEST082
+Metodo: Best fit
+Tempo de execucao: 9.968281e-04s
+Numero de compartimentos necessarios no Best Fit:25
+Arquivo texto: Waescher_TEST084
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:17
+Arquivo texto: Waescher_TEST084
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:17
+Arquivo texto: Waescher_TEST084
+Metodo: Best fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Best Fit:17
+Arquivo texto: Waescher_TEST084
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:17
+Arquivo texto: Waescher_TEST084
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:17
+Arquivo texto: Waescher_TEST084
+Metodo: Best fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Best Fit:17
+Arquivo texto: Waescher_TEST095
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:17
+Arquivo texto: Waescher_TEST095
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:17
+Arquivo texto: Waescher_TEST095
+Metodo: Best fit
+Tempo de execucao: 9.963512e-04s
+Numero de compartimentos necessarios no Best Fit:17
+Arquivo texto: Waescher_TEST097
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:12
+Arquivo texto: Waescher_TEST097
+Metodo: First fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no First Fit:13
+Arquivo texto: Waescher_TEST097
+Metodo: Best fit
+Tempo de execucao: 9.641647e-04s
+Numero de compartimentos necessarios no Best Fit:13
+Arquivo texto: Waescher_TEST005
+Metodo: Next fit
+Tempo de execucao: 0.000000e+00s
+Numero de compartimentos necessarios no Next Fit:32
+Arquivo texto: Waescher_TEST005
+Metodo: Next fit
+Tempo de execucao: 9.975433e-04s
+Numero de compartimentos necessarios no Next Fit:32
